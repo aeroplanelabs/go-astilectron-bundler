@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 
 	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
+	"github.com/aeroplanelabs/go-astilectron"
 )
 
 // Constants
